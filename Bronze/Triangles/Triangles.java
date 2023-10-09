@@ -1,3 +1,5 @@
+// http://www.usaco.org/index.php?page=viewproblem2&cpid=1011
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.lang.Math;
