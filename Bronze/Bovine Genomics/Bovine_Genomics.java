@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// http://www.usaco.org/index.php?page=viewproblem2&cpid=736
 
 import java.io.*;
 import java.util.StringTokenizer;
