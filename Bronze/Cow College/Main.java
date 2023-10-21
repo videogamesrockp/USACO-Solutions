@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// http://usaco.org/index.php?page=viewproblem2&cpid=1251
 
 import java.io.*;
 import java.util.*;
