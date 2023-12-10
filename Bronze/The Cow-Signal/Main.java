@@ -4,9 +4,9 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) throws IOException {
-		BufferedReader r = new BufferedReader(new FileReader("cowsignal.in"));
-		PrintWriter pw = new PrintWriter("cowsignal.out");
+    public static void main(String[] args) throws IOException {
+        BufferedReader r = new BufferedReader(new FileReader("cowsignal.in"));
+        PrintWriter pw = new PrintWriter("cowsignal.out");
 
         StringTokenizer st = new StringTokenizer(r.readLine());
         int M = Integer.parseInt(st.nextToken());
@@ -42,5 +42,5 @@ public class Main {
         }
 
         pw.close();
-	}
+    }
 }
