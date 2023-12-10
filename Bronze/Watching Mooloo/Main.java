@@ -14,7 +14,7 @@ public class Main {
 
 		long[] days = new long[N];
 
-        	st = new StringTokenizer(r.readLine());
+		st = new StringTokenizer(r.readLine());
 
 		for (int i = 0; i < N; i++) {
 			days[i] = Long.parseLong(st.nextToken());
@@ -32,10 +32,10 @@ public class Main {
 			}
 		}
         
-        	ans += (days[N - 1] - days[(int) (N - 1 - exist)]) + K + 1;
+		 ans += (days[N - 1] - days[(int) (N - 1 - exist)]) + K + 1;
 
 
-        	pw.println(ans);
+		pw.println(ans);
 
 		pw.close();
 
