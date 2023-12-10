@@ -32,7 +32,7 @@ public class Main {
 			}
 		}
         
-		 ans += (days[N - 1] - days[(int) (N - 1 - exist)]) + K + 1;
+		ans += (days[N - 1] - days[(int) (N - 1 - exist)]) + K + 1;
 
 
 		pw.println(ans);
