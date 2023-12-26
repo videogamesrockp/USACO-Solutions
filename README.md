@@ -1,2 +1,2 @@
 # USACO-Solutions
-Java solutions for USACO Problems
+Solutions for USACO Problems
