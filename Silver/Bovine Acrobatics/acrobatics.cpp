@@ -8,4 +8,8 @@ int main() {
     cin.tie(0);
 
 	int N, M, K; cin >> N >> M >> K;
+
+    for (int i = 0; i < N; i ++) {
+        
+    }
 }
