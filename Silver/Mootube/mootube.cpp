@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// https://usaco.org/index.php?page=viewproblem2&cpid=788
 
 #include <bits/stdc++.h>
 #include <utility>
