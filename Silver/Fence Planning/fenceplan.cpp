@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// https://usaco.org/index.php?page=viewproblem2&cpid=944
 
 #include <bits/stdc++.h>
 using namespace std;
